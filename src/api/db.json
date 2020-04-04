@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Literature"
+    },
+    {
+      "id": 2,
+      "categoryName": "Philosophy"
+    },
+    {
+      "id": 3,
+      "categoryName": "Self-improvement"
+    },
+    {
+      "id": 4,
+      "categoryName": "Novel"
+    },
+    {
+      "id": "8",
+      "categoryName": "Taha"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Şimdi'nin Gücü",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000104045-1.jpg",
+      "price": "28 TL ",
+      "unitInStock": 10,
+      "author": "Eckhart Tolle"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Yaratıcı Tür",
+      "image": "https://content.babil.com/urun/9dfc48492c6a441993af84a34217b30c/Front/Big",
+      "price": "43 TL ",
+      "unitInStock": 10,
+      "author": "David Eagleman"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "name": "Duygusal Zeka",
+      "image": "https://www.kitapsec.com/image/urun/2016/03/11/Resim_1457701499.jpg",
+      "price": "33 TL",
+      "unitInStock": 10,
+      "author": "Danıel Goleman"
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "name": "Mai ve Siyah",
+      "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000683683-1.jpg",
+      "price": "40 TL",
+      "unitInStock": 10,
+      "author": "Halid Ziya Uşaklıgil"
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "name": "Hayvan Çiftliği",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000105409-1.jpg",
+      "price": "40 TL",
+      "unitInStock": 10,
+      "author": "George Orwel"
+    },
+    {
+      "categoryId": 4,
+      "name": "Akşam Yıldızı",
+      "image": "https://st3.myideasoft.com/shop/aa/11/myassets/products/012/aksam-yildizi-iskender-pala-bir-gobeklitepe-romani-kapi-yayinlarikitap-takipcileri-konya-elif-kitabevi-konya-roman-yerli-son-cikan-satin-al-siparis.jpg?revision=1581631251",
+      "price": "50 TL",
+      "unitInStock": "28",
+      "author": "İskender Pala",
+      "id": 6
+    }
+  ]
+}
